@@ -1,2 +1,3 @@
 # hello-world
-just
+hi 
+my name is kangwenwei
